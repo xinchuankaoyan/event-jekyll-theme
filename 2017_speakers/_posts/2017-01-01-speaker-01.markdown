@@ -1,5 +1,5 @@
 ---
-title: Name
+title: 非哥
 name: 非哥
 subtitle: 讲师
 layout: 2017_default
