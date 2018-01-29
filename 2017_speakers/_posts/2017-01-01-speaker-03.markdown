@@ -1,6 +1,6 @@
 ---
 title: Name
-name: Name-3
+name: 非哥
 subtitle: Position
 layout: 2017_default
 modal-id: 1
