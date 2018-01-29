@@ -1,6 +1,6 @@
 ---
 title: Name
-name: Name-2
+name: 暖姐
 subtitle: Position
 layout: 2017_default
 modal-id: 1
