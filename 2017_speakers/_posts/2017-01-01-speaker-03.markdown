@@ -1,5 +1,5 @@
 ---
-title: Name
+title: 胡师姐
 name: 胡师姐
 subtitle: 团队创始人
 layout: 2017_default
