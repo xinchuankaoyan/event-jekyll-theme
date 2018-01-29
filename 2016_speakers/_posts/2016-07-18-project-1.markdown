@@ -1,7 +1,7 @@
 ---
 title: Name
-name: Name-1
-subtitle: Position
+name: 胡师姐
+subtitle: 团队创始人
 layout: 2016_default
 modal-id: 1
 img: TBD.jpg
